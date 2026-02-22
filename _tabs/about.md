@@ -1,11 +1,10 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-user-shield
 order: 4
 ---
 
-
-Hi! I’m **Anne Maina**, a cybersecurity **specialist** focused on ethical hacking and digital forensics.  
+Hi! I’m **Anne Maina**, a cybersecurity **specialist** focused on ethical hacking, digital forensics, and system protection.
 
 ### Skills
 - Ethical Hacking & Pen Testing
