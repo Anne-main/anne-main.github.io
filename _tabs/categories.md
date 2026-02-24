@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Cybersecurity-Labs
+title: labs
 icon: fas fa-shield-alt
 order: 1
 ---
