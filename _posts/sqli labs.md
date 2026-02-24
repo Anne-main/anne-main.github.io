@@ -1,6 +1,6 @@
 ----
 title: SQL Injection Lab
-categories: cybersecurity labs
+categories: cybersecurity-labs
 tags: [sqli-lab, burpsuite, database]
 layout: post
 ---
