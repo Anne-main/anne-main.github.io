@@ -1,4 +1,4 @@
-----
+---
 title: SQL Injection Lab
 categories: labs
 tags: [sqli-lab, burpsuite, database]
