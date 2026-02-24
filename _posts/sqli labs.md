@@ -1,9 +1,9 @@
----
+----
 title: SQL Injection Lab
 category: cybersecurity labs
-tags: [sqli labs]
+tags: [sqli-lab, burpsuite, database]
+layout: post
 ---
-
 ## Platform
 PortSwigger Web Security Academy
 
