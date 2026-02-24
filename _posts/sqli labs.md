@@ -1,6 +1,6 @@
 ---
 title: SQL Injection Lab
-category: cybersecurity-labs
+category: cybersecurity labs
 tags: [sql-injection]
 ---
 
