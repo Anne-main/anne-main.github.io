@@ -1,7 +1,7 @@
 ---
 title: SQL Injection Lab
 category: cybersecurity labs
-tags: [sql injection]
+tags: [sqli labs]
 ---
 
 ## Platform
