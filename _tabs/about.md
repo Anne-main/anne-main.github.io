@@ -5,8 +5,6 @@ icon: fas fa-user-shield
 order: 4
 ---
 
-
-
 # Hey, I’m Anne Maina 👋
 
 BBIT student | Aspiring Ethical Hacker | Tech Explorer  
