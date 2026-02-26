@@ -21,13 +21,6 @@ I eventually realized what truly excites me is exploring **the deeper side of te
 - **Cybersecurity:** SQL Injection, Linux Hardening, Network Security  
 - **Tools I Love:** Burp Suite, PortSwigger Labs  
 
----
-
-## 🚀 Featured Project
-
-- **SQL Injection Lab** → [Cybersecurity Labs](/category/cybersecurity-labs)
-
----
 
 ## ✨ Why I Do This
 
