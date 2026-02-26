@@ -28,7 +28,7 @@ This made me realise:
 ## 💡 Key Lessons Learned
 - Weak passwords are still very common
 - Dictionary attacks work when people use predictable passwords
-- Cybersecurity isn’t about hacking illegally — it’s about understanding vulnerabilities so we can fix them
+- Cybersecurity isn’t about hacking legally— it’s about understanding vulnerabilities so we can fix them
 - Confidence grows when you solve real problems
 
 
