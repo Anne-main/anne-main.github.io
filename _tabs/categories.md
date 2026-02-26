@@ -1,6 +1,6 @@
 ---
+layout: categories
+icon: fas fa-stream
 title: Cybersecurity Labs
-layout: page
-permalink: /labs/
----
-
+icon: fas fa-shield-alt
+order: 1
