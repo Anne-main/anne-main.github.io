@@ -3,11 +3,33 @@
 icon: fas fa-user-shield
 order: 4
 ---
+# Hey, I’m Anne Maina 👋
 
-Hi! I’m **Anne Maina**, a cybersecurity **specialist** focused on ethical hacking, digital forensics, and system protection.
+BBIT student | Aspiring Ethical Hacker | Tech Explorer  
 
-### Skills
-- Ethical Hacking & Pen Testing
-- Digital Forensics
-- Network Security
-- Malware Analysis
+💡 **Fun Fact:** I started with frontend development… but it never really felt like home.  
+I eventually realized what truly excites me is exploring **the deeper side of tech** — hacking (ethically!), securing systems, and understanding how things really work.
+
+---
+
+## 🛠 Skills Snapshot
+
+- **Web Development:** HTML, CSS, JavaScript  
+- **Backend & DB:** Java, MySQL  
+- **Cybersecurity:** SQL Injection, Linux Hardening, Network Security  
+- **Tools I Love:** Burp Suite, PortSwigger Labs  
+
+---
+
+## 🚀 Featured Project
+
+- **SQL Injection Lab** → [Cybersecurity Labs](/category/cybersecurity-labs)
+
+---
+
+## ✨ Why I Do This
+
+I’m all about **hands-on learning** and building secure, reliable systems.  
+Challenges excite me, curiosity drives me, and every lab or project is a chance to learn something new.
+
+> Fun + focus = that’s my formula for exploring tech!
