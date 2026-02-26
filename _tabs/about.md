@@ -1,10 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-icon: fas fa-user-shield
+layout: page
+icons:
+  - fas fa-info-circle
+  - fas fa-user-shield
 order: 4
 ---
-
 # Hey, I’m Anne Maina 👋
 
 BBIT student | Aspiring Ethical Hacker | Tech Explorer  
