@@ -14,9 +14,7 @@ Vulnerability Types Studied: Reflected XSS & Stored XSS
 
 Using the PortSwigger Web Security Academy lab, I identified a Reflected XSS vulnerability in a search feature where user input was returned to the page without proper sanitization or encoding.
 
-By injecting:
-
-<script>alert('XSS')</script>
+By injecting; <script>alert('XSS')</script>
 
 I confirmed arbitrary JavaScript execution in the browser.
 
