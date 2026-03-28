@@ -1,0 +1,72 @@
+---
+layout: page
+title: My CV
+icon: fas fa-user
+parent: Cybersecurity Labs
+order: 3
+---
+PERSONAL INFO 
+GENDER: female 
+NATIONALITY: Kenyan 
+ DATE OF BIRTH: 07-02-2005 
+CONTACT: 0717235683 
+EMAIL: anne.1972.maina@gmail.com 
+RELIGION: Christian 
+ MARTIAL STATUS: Single 
+ 
+CAREER OBJECTIVE 
+I aspire to work in a dynamic environment where I can develop my technical and problem-solving skills, contribute to projects with real impact, and grow steadily as a professional while building expertise in my field. 
+PROFILE 
+I am curious and driven, committed to learning from every experience and growing as an individual each day. I strive to balance discipline with reflection, ensuring that my actions contribute to both personal development and meaningful achievements. I approach challenges with resilience and an open mind, seeing each opportunity as a step toward long-term growth. 
+Technical Skills 
+Programming & Databases 
+•	Languages: C, C++, Java, JavaScript 
+•	Databases: SQL (querying, table creation, data manipulation) 
+•	Concepts: Object-Oriented Programming, Data Structures 
+Web Development & Security 
+•	HTML & CSS: Web page structure and styling for learning and security analysis 
+•	JavaScript: Basic scripting to understand client-side behavior 
+•	Web Security Concepts: HTTP/HTTPS, request/response flows, form validation, basic vulnerabilities 
+Networking & Security Tools 
+•	Network Analysis: TCP/IP, packet capture interpretation, port scanning 
+•	Tools: Nmap (network scanning), Burp Suite (HTTP request interception and analysis) Operating Systems & Environment 
+•	Linux: Command-line navigation, file system management, basic bash scripting • 	Windows: General familiarity 
+  
+Hands-On Practice / Lab Experience 
+•	Conducted network scans using Nmap in controlled test environments to identify open ports and services. 
+•	Intercepted and analyzed HTTP requests using Burp Suite to understand web application behavior and data flow. 
+•	Set up virtual lab environments on Linux to practice network scanning, traffic analysis, and system monitoring. 
+•	Used Linux commands and utilities to analyze system and network behavior. 
+•	Developed exercises and small learning projects using C, C++, Java, SQL, HTML, CSS, and JavaScript to strengthen programming, database, and web fundamentals. 
+  
+Professional & Soft Skills 
+•	Communication skills (technical and non-technical) 
+•	Critical thinking and analytical reasoning 
+•	Problem solving and logical troubleshooting 
+•	Team collaboration and cooperative learning 
+•	Basic project management and task organization 
+•	Technical documentation and problem documentation 
+•	Continuous learning mindset and adaptability 
+  
+Values 
+•	Integrity and ethical use of technology 
+•	Curiosity and commitment to continuous improvement 
+•	Accountability and responsibility in learning and teamwork 
+•	Respect for privacy, security, and professional boundaries 
+EDUCATION BACKGROUND 
+2023 –DATE: Multimedia university of Kenya Bachelor of business information technology 
+ 2019 – 2022: St Bakhita Gataragwa girls high school Kenya secondary education certificate  
+                            Grade; B- 
+ 2011 – 2018 : Mweiga primary school Kenya primary education certificate 
+                            Grade; C+ 
+2025:  Cisco networking academy
+               Introduction to cybersecurity
+               Introduction to networking         
+ 2026-  date  : Cybershujaa
+                          Cisco ethical hacking
+                                       
+HOBBIES 
+1.	Listening to music  
+2.	Hiking 
+3.	Crotcheting 
+ 
